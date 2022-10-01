@@ -1,4 +1,4 @@
-# More Projects
+# More Projects WIP 
 
 ## Stress Test (Stress Detecting Wearable Glove) 
 More Information (Including initial objective, weekly logs, 'stress ball mechanics', calculations and miscellaneous details) @ https://www.notion.so/Stress-Test-9c96f52711af4fe3b60a9297f3c15f38
@@ -8,7 +8,7 @@ More Information (Including initial objective, weekly logs, 'stress ball mechani
 More Information @ https://sites.google.com/umass.edu/morse-glove-cics256/home
 
 
-## Solar Energy Plant Data Analysis
+## Solar Energy Plant Data Analysis 
 More Information @ 
 Completed as a Fellow in Atria University's Data Science Fellowship Program for High School Students
 
@@ -18,3 +18,7 @@ Completed to help with increasing the size of image datasets for ML models - par
 
 ## Movie Review Sentiment Analysis 
 More Information @ 
+
+
+TODOS:
+Add stuff for the other projects listed above + clean up and add other projects 
