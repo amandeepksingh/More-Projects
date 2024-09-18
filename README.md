@@ -7,6 +7,8 @@ More Information (Including initial objective, weekly logs, 'stress ball mechani
 ## Morse Converter Band - Awarded Best Cryptography Project by Prof. Tauhidur Rahman 
 More Information @ https://sites.google.com/umass.edu/morse-glove-cics256/home
 
+----------------------------------------------------------
+To Add:
 
 ## Solar Energy Plant Data Analysis 
 More Information @ 
